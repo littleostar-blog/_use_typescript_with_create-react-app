@@ -2,6 +2,12 @@
 
 ---
 
+```
+npm i -g create-react-app
+```
+
+---
+
 - react demo list
   - you can download [Compare4 actived](https://github.com/littleostar-blog/littleostar-blog.github.io/tree/master/files) to campare them.
   
