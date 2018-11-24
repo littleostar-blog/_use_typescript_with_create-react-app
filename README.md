@@ -111,20 +111,8 @@ npm i -g create-react-app
 
   - ```
     create-react-app my-app --typescript
-    ```
-    or
-  
-  - ```
     npx create-react-app my-app --typescript
-    ```
-    or
-    
-  - ```
     npm init react-app my-app --typescript
-    ```
-    or
-    
-  - ```
     yarn create react-app my-app --typescript
     ```
 
