@@ -9,7 +9,6 @@ npm i -g create-react-app
 ---
 
 - react demo list
-  - you can download [Compare4 actived](https://github.com/littleostar-blog/littleostar-blog.github.io/tree/master/files) to campare them.
   
   - react use js
     - [react-origin-demo.zip](https://github.com/littleostar-blog/_use_typescript_with_create-react-app/raw/master/demos/react-origin-demo.zip)
